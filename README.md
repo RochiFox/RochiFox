@@ -11,7 +11,7 @@
 const zackNeBeyStol = {
   pronouns: "he" | "him",
   location: "Ukraine, Poltava",
-  age: 18,
+  age: 19,
   code: [JavaScript, TypeScript, HTML, CSS],
   tools: [TailwindCSS, SCSS, React, Postman, Figma, Photoshop],
   hobby: "listening to music, playing games",
