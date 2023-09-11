@@ -13,9 +13,8 @@ const rochiFox = {
   location: "Ukraine, Poltava",
   age: 19,
   education: "Poltava University of Economics and Trade (Software Engineer, 2023-present)",
-  code: [JavaScript, TypeScript, HTML, CSS],
+  code: [JavaScript, C++],
   tools: [TailwindCSS, SCSS, React, Postman, Figma, Photoshop],
   hobby: "listening to music, playing guitar",
-  challenge: "???"
 }
 ```
