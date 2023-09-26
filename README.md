@@ -14,14 +14,14 @@
 using namespace std;
 
 struct RochiFox {
-  const string pronouns = "he or him";
+  const string pronouns = "He or Him";
   string location = "Ukraine, Poltava";
   int age = 19;
   string education = "Poltava University of Economics and Trade (Software Engineer, 2023-present)";
   const vector<string> code = {"C++", "JavaScript"};
   const string engine = "Unreal Engine 4/5";
   vector<string> tools = {"TailwindCSS", "SCSS", "React", "Postman", "Figma", "Photoshop", "Blender"};
-  string hobby = "playing guitar";
+  string hobby = "Playing guitar";
 };
 
 ```
