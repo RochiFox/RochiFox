@@ -7,14 +7,21 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> So... Let's learn more about each other  
 
-```javascript
-const rochiFox = {
-  pronouns: "he" | "him",
-  location: "Ukraine, Poltava",
-  age: 19,
-  education: "Poltava University of Economics and Trade (Software Engineer, 2023-present)",
-  code: [JavaScript, C++],
-  tools: [TailwindCSS, SCSS, React, Postman, Figma, Photoshop],
-  hobby: "listening to music, playing guitar",
-}
+```cpp
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+struct RochiFox {
+  const string pronouns = "he or him";
+  string location = "Ukraine, Poltava";
+  int age = 19;
+  string education = "Poltava University of Economics and Trade (Software Engineer, 2023-present)";
+  const vector<string> code = {"C++", "JavaScript"};
+  const string engine = "Unreal Engine 4/5";
+  vector<string> tools = {"TailwindCSS", "SCSS", "React", "Postman", "Figma", "Photoshop", "Blender"};
+  string hobby = "playing guitar";
+};
+
 ```
