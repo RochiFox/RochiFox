@@ -20,7 +20,7 @@ struct RochiFox {
   const vector<string> code = {"C++", "JavaScript"};
   const string engine = "Unreal Engine 4/5";
   vector<string> tools = {"TailwindCSS", "SCSS", "React", "Postman", "Figma", "Photoshop", "Blender"};
-  string hobby = "Playing guitar";
+  string hobby = "Playing guitar, listening to music";
 };
 
 ```
