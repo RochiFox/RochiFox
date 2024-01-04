@@ -1,9 +1,6 @@
 ## Sup, I'm Yevhenii Vyshnevskyi!
 *I'm a Software Enginner*<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-[![Telegram: RochiTheFox](https://camo.githubusercontent.com/ff642d0e4fd32df760c04b954ce6646b0dcc83c19b48200d63684bdcf17dca84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d737175617265266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/RochiTheFox)
-[![GitHub RochiFox](https://img.shields.io/github/followers/RochiFox?label=follow&style=social)](https://github.com/RochiFox)
-
 ### So... Let's learn more about each other  
 
 ```cpp
