@@ -3,21 +3,18 @@
 
 ### So... Let's learn more about each other  
 
-```cpp
-#include <iostream>
-#include <vector>
+```ts
+class RochiFox {
+  public pronouns: string = "He or Him";
+  public location: string = "Ukraine, Poltava";
+  public age: number = 19;
+  public education: string = "Poltava University of Economics and Trade (Software Engineer, 2023-present)";
+  public readonly code: string[] = ["TypeScript", "JavaScript"];
+  public frameworks: string[] = ["React", "TailwindCSS", "SCSS"];
+  public tools: string[] = ["Postman", "Figma", "Photoshop", "Linux/Windows terminal"];
+  public hobby: string[] = ["Playing guitar", "Videogame playing"];
+}
 
-using namespace std;
-
-struct RochiFox {
-  const string pronouns = "He or Him";
-  string location = "Ukraine, Poltava";
-  int age = 19;
-  string education = "Poltava University of Economics and Trade (Software Engineer, 2023-present)";
-  const vector<string> code = {"C++", "JavaScript"};
-  const string engine = "Unreal Engine 4/5";
-  vector<string> tools = {"TailwindCSS", "SCSS", "React", "Postman", "Figma", "Photoshop", "Blender"};
-  string hobby = "Playing guitar, listening to music";
-};
+const rochiFox: RochiFox = new RochiFox();
 
 ```
