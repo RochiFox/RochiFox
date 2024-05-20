@@ -1,20 +1,58 @@
-## Sup, I'm Yevhenii Vyshnevskyi!
+## Sup, I'm Rochi!
 *I'm a Software Enginner*<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-### So... Let's learn more about each other  
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>  
 
-```ts
-class RochiFox {
-  public pronouns: string = "He or Him";
-  public location: string = "Ukraine, Poltava";
-  public age: number = 19;
-  public education: string = "Poltava University of Economics and Trade (Software Engineer, 2023-present)";
-  public readonly code: string[] = ["TypeScript", "JavaScript"];
-  public frameworks: string[] = ["React", "TailwindCSS", "SCSS"];
-  public tools: string[] = ["Postman", "Figma", "Photoshop", "Linux/Windows terminal"];
-  public hobby: string[] = ["Playing guitar", "Videogame playing"];
-}
+<table>
+  <tr>
+    <th><h3 align="center">Frontend</h3></th>
+    <th><h3 align="center">Backend</h3></th>
+    <th><h3 align="center">Database</h3></th>
+    <th><h3 align="center">Tools</h3></th>
+  </tr>
+  <tr>
+    <td>
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss" alt="HTML, CSS, Bootstrap, Tailwind CSS" />
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" />
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+      </a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
+      </a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
+        <img src="https://skillicons.dev/icons?i=figma,photoshop,postman" alt="Figma, Photoshop, Postman" />
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="37" height="37" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="37" height="37" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-const rochiFox: RochiFox = new RochiFox();
+## Contact Info
 
-```
+<p align="left">
+  <a href = "mailto:rochithefox@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a target="_blank" href = "https://t.me/Rochiyoung"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
+</p>
+
+## Github Stats
+
+<p align="center">
+        <a href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rochifox&theme=prussian&show_icons=true&hide_border=true&layout=compact">
+            <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rochifox&rank_icon=percentile&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=prussian" />
+            <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rochifox&show_icons=true&hide_border=true&layout=compact&theme=prussian"/>
+        </a>
+</p>
