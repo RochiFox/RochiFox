@@ -50,9 +50,7 @@
 
 ## Github Stats
 
-<p align="center">
-        <a href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rochifox&theme=prussian&show_icons=true&hide_border=true&layout=compact">
-            <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rochifox&rank_icon=percentile&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=prussian" />
-            <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rochifox&show_icons=true&hide_border=true&layout=compact&theme=prussian"/>
-        </a>
+<p align="center">     
+  <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rochifox&rank_icon=percentile&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=synthwave" />
+  <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rochifox&show_icons=true&hide_border=true&layout=compact&theme=synthwave"/>
 </p>
